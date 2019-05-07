@@ -2,7 +2,7 @@
 ## Simple image based game created uing React
 
 **To Run This Game You Will Need To:**
-* Clone Repo
+* **Clone Repo**
 * *RUN* **npm install**
 * *RUN* **yarn start**
 
