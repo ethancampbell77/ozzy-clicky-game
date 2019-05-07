@@ -1,5 +1,5 @@
 # ozzy-clicky-game
-## Simple image based game created uing React
+## Simple image based game created using React
 
 **To Run This Game You Will Need To:**
 * **Clone Repo**
