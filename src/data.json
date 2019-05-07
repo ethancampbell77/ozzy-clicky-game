@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/ozzy1.jpg",
+        "clicked": false
+    }, 
+    {
+        "id": 2,
+        "image": "../../assets/images/ozzy2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "../../assets/images/ozzy3.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "../../assets/images/ozzy4.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "../../assets/images/ozzy5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "../../assets/images/ozzy6.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "../../assets/images/ozzy7.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "../../assets/images/ozzy8.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "../../assets/images/ozzy11.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "../../assets/images/ozzy10.jpeg",
+        "clicked": false
+    }
+]
+
