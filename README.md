@@ -16,3 +16,5 @@
 * Score will reset after each loss - high score will remain until game is cleared.
 * To clear game (reset) - Click the Ozzy logo in the upper left corner of the browser window.
 
+**Dployed on Heroku Here** https://ozzy-click.herokuapp.com/
+
