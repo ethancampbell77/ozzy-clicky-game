@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ozzy-clicky-game/static/css/main.02c67017.chunk.css",
+    "main.js": "/ozzy-clicky-game/static/js/main.cb44a7ec.chunk.js",
+    "main.js.map": "/ozzy-clicky-game/static/js/main.cb44a7ec.chunk.js.map",
+    "runtime~main.js": "/ozzy-clicky-game/static/js/runtime~main.ae4eae49.js",
+    "runtime~main.js.map": "/ozzy-clicky-game/static/js/runtime~main.ae4eae49.js.map",
+    "static/js/2.9f88e8da.chunk.js": "/ozzy-clicky-game/static/js/2.9f88e8da.chunk.js",
+    "static/js/2.9f88e8da.chunk.js.map": "/ozzy-clicky-game/static/js/2.9f88e8da.chunk.js.map",
+    "index.html": "/ozzy-clicky-game/index.html",
+    "precache-manifest.b02e91283a79325a5ed275a4cd87928c.js": "/ozzy-clicky-game/precache-manifest.b02e91283a79325a5ed275a4cd87928c.js",
+    "service-worker.js": "/ozzy-clicky-game/service-worker.js",
+    "static/css/main.02c67017.chunk.css.map": "/ozzy-clicky-game/static/css/main.02c67017.chunk.css.map"
+  }
+}
